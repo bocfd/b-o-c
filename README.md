@@ -19,7 +19,7 @@ More structure will evolve as the project grows.
 
 ## Contributing
 
-This is an open exploratory project. Suggestions, critiques, and pull requests are welcome as long as they aim to clarify, not distort, the core ideas.
+This is an open exploratory project. Suggestions, critiques, and pull requests are welcome.
 
 ## License
 
