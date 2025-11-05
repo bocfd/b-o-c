@@ -4,7 +4,7 @@ Exploring how feedback shapes systems, and what happens when governance is insul
 
 ## Overview
 
-This repository is a working space for developing the core ideas behind the “Body of Civilization” framework. The project examines how feedback maintains coherence in living systems, and how breakdowns in feedback affect communities, institutions, and large-scale governance structures.
+This repository is a working space for developing the core ideas behind the framework. The project examines how feedback maintains coherence in living systems, and how breakdowns in feedback affect communities, institutions, and large-scale governance structures.
 
 The goal is not to write a manifesto, but to build a clear, testable model of how social systems stay aligned with the people they serve — and what happens when they don’t.
 
